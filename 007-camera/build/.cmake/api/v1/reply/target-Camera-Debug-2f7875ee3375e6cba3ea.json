@@ -1,0 +1,313 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Camera.exe"
+		},
+		{
+			"path" : "Camera.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries",
+			"set_target_properties",
+			"include",
+			"find_package",
+			"find_dependency"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"D:/software6/vcpkg/installed/x64-mingw-static/share/assimp/assimpTargets.cmake",
+			"D:/software6/vcpkg/installed/x64-mingw-static/share/assimp/assimpConfig.cmake",
+			"D:/software6/vcpkg/installed/x64-mingw-static/share/pugixml/pugixml-targets.cmake",
+			"D:/software6/vcpkg/installed/x64-mingw-static/share/pugixml/pugixml-config.cmake",
+			"D:/software6/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 25,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"file" : 2,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 41,
+				"parent" : 4
+			},
+			{
+				"file" : 1,
+				"parent" : 5
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 60,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 32,
+				"parent" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 5,
+				"line" : 76,
+				"parent" : 8
+			},
+			{
+				"file" : 4,
+				"parent" : 9
+			},
+			{
+				"command" : 3,
+				"file" : 4,
+				"line" : 10,
+				"parent" : 10
+			},
+			{
+				"file" : 3,
+				"parent" : 11
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 60,
+				"parent" : 12
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "YAML_CPP_STATIC_DEFINE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "D:/software6/vcpkg/installed/x64-mingw-static/include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				5
+			]
+		}
+	],
+	"id" : "Camera::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "D:\\software6\\vcpkg\\installed\\x64-mingw-static\\debug\\lib\\libglad.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "D:\\software6\\vcpkg\\installed\\x64-mingw-static\\debug\\lib\\libglfw3.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "D:\\software6\\vcpkg\\installed\\x64-mingw-static\\debug\\lib\\libglm.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "D:\\software6\\vcpkg\\installed\\x64-mingw-static\\debug\\lib\\libassimpd.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "D:\\software6\\vcpkg\\installed\\x64-mingw-static\\debug\\lib\\libyaml-cppd.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "D:\\software6\\vcpkg\\installed\\x64-mingw-static\\debug\\lib\\libpolyclipping.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "D:\\software6\\vcpkg\\installed\\x64-mingw-static\\debug\\lib\\libpoly2tri.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "D:\\software6\\vcpkg\\installed\\x64-mingw-static\\debug\\lib\\libminizip.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "D:\\software6\\msys2\\mingw64\\lib\\libz.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "D:\\software6\\vcpkg\\installed\\x64-mingw-static\\debug\\lib\\libpugixml.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "D:\\software6\\vcpkg\\installed\\x64-mingw-static\\debug\\lib\\libkubazip.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "-static-libgcc",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "-static-libstdc++",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "-Wl,-Bstatic",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "-lstdc++",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "-lwinpthread",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "Camera",
+	"nameOnDisk" : "Camera.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				5
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				2,
+				3,
+				4,
+				6
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "utils/RectangleModel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "utils/RectangleModel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "utils/camera.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "utils/shader.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "utils/windowFactory.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "utils/windowFactory.h",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}

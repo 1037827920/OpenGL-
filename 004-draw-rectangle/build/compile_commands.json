@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Code/computer-graphic/Practice/004-draw-rectangle/build",
+  "command": "D:\\software6\\msys2\\mingw64\\bin\\g++.exe  @CMakeFiles/HelloFactory.dir/includes_CXX.rsp -g -o CMakeFiles\\HelloFactory.dir\\main.cpp.obj -c D:\\Code\\computer-graphic\\Practice\\004-draw-rectangle\\main.cpp",
+  "file": "D:/Code/computer-graphic/Practice/004-draw-rectangle/main.cpp",
+  "output": "CMakeFiles/HelloFactory.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/Code/computer-graphic/Practice/004-draw-rectangle/build",
+  "command": "D:\\software6\\msys2\\mingw64\\bin\\g++.exe  @CMakeFiles/HelloFactory.dir/includes_CXX.rsp -g -o CMakeFiles\\HelloFactory.dir\\utils\\RectangleModel.cpp.obj -c D:\\Code\\computer-graphic\\Practice\\004-draw-rectangle\\utils\\RectangleModel.cpp",
+  "file": "D:/Code/computer-graphic/Practice/004-draw-rectangle/utils/RectangleModel.cpp",
+  "output": "CMakeFiles/HelloFactory.dir/utils/RectangleModel.cpp.obj"
+}
+]

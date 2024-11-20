@@ -1,0 +1,3 @@
+D:\software6\CMake\bin\cmake.exe -E rm -f CMakeFiles\HelloTriangle.dir/objects.a
+D:\software6\msys2\mingw64\bin\ar.exe qc CMakeFiles\HelloTriangle.dir/objects.a @CMakeFiles\HelloTriangle.dir\objects1.rsp
+D:\software6\msys2\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\HelloTriangle.dir/objects.a -Wl,--no-whole-archive -o HelloTriangle.exe -Wl,--out-implib,libHelloTriangle.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\HelloTriangle.dir\linkLibs.rsp

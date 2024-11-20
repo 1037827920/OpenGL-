@@ -1,0 +1,3 @@
+D:/Code/computer-graphic/Practice/hello-window/build/CMakeFiles/HelloWorld.dir
+D:/Code/computer-graphic/Practice/hello-window/build/CMakeFiles/edit_cache.dir
+D:/Code/computer-graphic/Practice/hello-window/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Code/computer-graphic/Practice/hello-window/build",
+  "command": "D:\\software6\\msys2\\mingw64\\bin\\g++.exe  @CMakeFiles/HelloWorld.dir/includes_CXX.rsp -g -o CMakeFiles\\HelloWorld.dir\\main.cpp.obj -c D:\\Code\\computer-graphic\\Practice\\hello-window\\main.cpp",
+  "file": "D:/Code/computer-graphic/Practice/hello-window/main.cpp",
+  "output": "CMakeFiles/HelloWorld.dir/main.cpp.obj"
+}
+]

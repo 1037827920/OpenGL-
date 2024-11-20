@@ -1,0 +1,3 @@
+D:\software6\CMake\bin\cmake.exe -E rm -f CMakeFiles\HelloFactory.dir/objects.a
+D:\software6\msys2\mingw64\bin\ar.exe qc CMakeFiles\HelloFactory.dir/objects.a @CMakeFiles\HelloFactory.dir\objects1.rsp
+D:\software6\msys2\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\HelloFactory.dir/objects.a -Wl,--no-whole-archive -o HelloFactory.exe -Wl,--out-implib,libHelloFactory.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\HelloFactory.dir\linkLibs.rsp

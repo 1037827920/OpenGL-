@@ -1,0 +1,3 @@
+D:/Code/computer-graphic/Practice/003-hello-factory/build/CMakeFiles/HelloFactory.dir
+D:/Code/computer-graphic/Practice/003-hello-factory/build/CMakeFiles/edit_cache.dir
+D:/Code/computer-graphic/Practice/003-hello-factory/build/CMakeFiles/rebuild_cache.dir

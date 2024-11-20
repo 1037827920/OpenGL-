@@ -1,0 +1,3 @@
+D:/Code/computer-graphic/Practice/hello-triangle/build/CMakeFiles/HelloTriangle.dir
+D:/Code/computer-graphic/Practice/hello-triangle/build/CMakeFiles/edit_cache.dir
+D:/Code/computer-graphic/Practice/hello-triangle/build/CMakeFiles/rebuild_cache.dir
