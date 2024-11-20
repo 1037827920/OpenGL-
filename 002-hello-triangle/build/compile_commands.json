@@ -1,8 +1,0 @@
-[
-{
-  "directory": "D:/Code/computer-graphic/Practice/hello-triangle/build",
-  "command": "D:\\software6\\msys2\\mingw64\\bin\\g++.exe  @CMakeFiles/HelloTriangle.dir/includes_CXX.rsp -g -o CMakeFiles\\HelloTriangle.dir\\main.cpp.obj -c D:\\Code\\computer-graphic\\Practice\\hello-triangle\\main.cpp",
-  "file": "D:/Code/computer-graphic/Practice/hello-triangle/main.cpp",
-  "output": "CMakeFiles/HelloTriangle.dir/main.cpp.obj"
-}
-]

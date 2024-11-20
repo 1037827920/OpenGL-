@@ -1,3 +1,0 @@
-D:/Code/computer-graphic/Practice/008-ambient-light/build/CMakeFiles/Ambient.dir
-D:/Code/computer-graphic/Practice/008-ambient-light/build/CMakeFiles/edit_cache.dir
-D:/Code/computer-graphic/Practice/008-ambient-light/build/CMakeFiles/rebuild_cache.dir

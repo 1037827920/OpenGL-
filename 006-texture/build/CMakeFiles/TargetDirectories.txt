@@ -1,3 +1,0 @@
-D:/Code/computer-graphic/Practice/006-texture/build/CMakeFiles/Shader.dir
-D:/Code/computer-graphic/Practice/006-texture/build/CMakeFiles/edit_cache.dir
-D:/Code/computer-graphic/Practice/006-texture/build/CMakeFiles/rebuild_cache.dir

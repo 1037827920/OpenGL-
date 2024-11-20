@@ -1,3 +1,0 @@
-D:/Code/computer-graphic/Practice/004-draw-rectangle/build/CMakeFiles/HelloFactory.dir
-D:/Code/computer-graphic/Practice/004-draw-rectangle/build/CMakeFiles/edit_cache.dir
-D:/Code/computer-graphic/Practice/004-draw-rectangle/build/CMakeFiles/rebuild_cache.dir

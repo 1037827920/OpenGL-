@@ -1,3 +1,0 @@
-D:/Code/computer-graphic/Practice/007-camera/build/CMakeFiles/Camera.dir
-D:/Code/computer-graphic/Practice/007-camera/build/CMakeFiles/edit_cache.dir
-D:/Code/computer-graphic/Practice/007-camera/build/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-D:\software6\CMake\bin\cmake.exe -E rm -f CMakeFiles\Camera.dir/objects.a
-D:\software6\msys2\mingw64\bin\ar.exe qc CMakeFiles\Camera.dir/objects.a @CMakeFiles\Camera.dir\objects1.rsp
-D:\software6\msys2\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Camera.dir/objects.a -Wl,--no-whole-archive -o Camera.exe -Wl,--out-implib,libCamera.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Camera.dir\linkLibs.rsp
